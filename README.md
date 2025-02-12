@@ -19,10 +19,13 @@ The application is built using Python, Streamlit, OpenAI API, and Google Custom 
 
 ### 🛠️ Tech Stack
 Backend: Python, OpenAI GPT-4 API, Google Custom Search API
+
 Frontend: Streamlit
+
 APIs Used:
-OpenAI GPT-4-Turbo (for AI-powered response generation)
-Google Custom Search API (for fetching live web results)
+- OpenAI GPT-4-Turbo (for AI-powered response generation)
+- Google Custom Search API (for fetching live web results)
+
 Deployment: Localhost / Streamlit Cloud
 
 
