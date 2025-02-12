@@ -29,7 +29,7 @@ APIs Used:
 Deployment: Localhost / Streamlit Cloud
 
 
-### ⚡Here's How it Looks!
+### ⚡Here's How it Looks! (🔗https://ai-research-agent-project-cc7aaq8oycebzlrxdofjvv.streamlit.app/)
 <img width="636" alt="image" src="https://github.com/user-attachments/assets/0937e37f-94fe-4a33-a368-769ab54ce07c" />
 
 
