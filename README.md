@@ -36,7 +36,7 @@ Deployment: Localhost / Streamlit Cloud
 
 ### 📝 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/AI-powered-Research-Agent.git
+git clone https://github.com/moniker0/AI-powered-Research-Agent.git
 cd AI-powered-Research-Agent
 
 2️⃣ Create a Virtual Environment
