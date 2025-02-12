@@ -1,8 +1,8 @@
 ## 📌 AI-Powered Research Agent
 🔍 A Web-Based AI Assistant for Research Queries
-This project is an AI-powered research assistant that retrieves live web search results using Google Custom Search API and generates AI-powered insights using OpenAI's GPT-4-Turbo.
+- This project is an AI-powered research assistant that retrieves live web search results using Google Custom Search API and generates AI-powered insights using OpenAI's GPT-4-Turbo.
 
-The application is built using Python, Streamlit, OpenAI API, and Google Custom Search API, and it provides an interactive web UI for users to enter research queries and receive AI-generated responses.
+- The application is built using Python, Streamlit, OpenAI API, and Google Custom Search API, and it provides an interactive web UI for users to enter research queries and receive AI-generated responses.
 
 
 ### 🚀 Features
@@ -18,15 +18,15 @@ The application is built using Python, Streamlit, OpenAI API, and Google Custom 
 
 
 ### 🛠️ Tech Stack
-Backend: Python, OpenAI GPT-4 API, Google Custom Search API
+- Backend: Python, OpenAI GPT-4 API, Google Custom Search API
 
-Frontend: Streamlit
+- Frontend: Streamlit
 
-APIs Used:
-- OpenAI GPT-4-Turbo (for AI-powered response generation)
-- Google Custom Search API (for fetching live web results)
+- APIs Used:
+  - OpenAI GPT-4-Turbo (for AI-powered response generation)
+  - Google Custom Search API (for fetching live web results)
 
-Deployment: Localhost / Streamlit Cloud
+- Deployment: Localhost / Streamlit Cloud
 
 
 ### ⚡Here's How it Looks! (🔗https://ai-research-agent-project-cc7aaq8oycebzlrxdofjvv.streamlit.app/)
@@ -54,22 +54,25 @@ GOOGLE_CSE_ID=your-google-cse-id
 
 
 ### 💡 Usage
-Run the Streamlit Web App
+- Run the Streamlit Web App
+  - streamlit run AI-Research-Agent.py
 
-streamlit run AI-Research-Agent.py
-
-Open http://localhost:8501 in your browser.
-Enter your research query in the text box.
-Click "Generate Answer" to get AI-powered insights.
+- Open http://localhost:8501 in your browser.
+- Enter your research query in the text box.
+- Click "Generate Answer" to get AI-powered insights.
 
 
 ### 🛠️ Troubleshooting
 Common Issues & Fixes
-RateLimitError (429)	Reduce API calls, lower max_tokens, or upgrade OpenAI plan
+ - RateLimitError (429)	Reduce API calls, lower max_tokens, or upgrade OpenAI plan
 
 
 ### 🎯 Future Enhancements
 🔹 Cache Responses – Store AI responses to reduce redundant API calls.
+
 🔹 UI Improvements – Add search filters and better visualization.
+
 🔹 Multi-Model Support – Allow users to choose GPT-4 or GPT-3.5.
+
 🔹 Mobile-Friendly UI – Optimize for small screens.
+
